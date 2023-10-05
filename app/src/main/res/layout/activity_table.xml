@@ -12,7 +12,7 @@
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="150dp"
+            android:layout_width="148dp"
             android:layout_height="200dp"
             app:srcCompat="@drawable/human"
             tools:ignore="ImageContrastCheck" />
